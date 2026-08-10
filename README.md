@@ -29,6 +29,8 @@ Mobile-friendly layout<br>
 
 Login → Home → Select Food → Customize → Cart → Payment → Order Confirmation
 
+you can see prototype by : "https://www.figma.com/proto/M3jJvHbrwYreHINQXGnGRb/Untitled?node-id=13-121&p=f&t=obsQLDVofX7DsCE8-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=13%3A121"
+
 <img width="1120" height="761" alt="Mealzy1" src="https://github.com/user-attachments/assets/02647e4f-4604-413c-ac2d-ca7a5796af27" />
 <img width="1112" height="757" alt="Mealzy2" src="https://github.com/user-attachments/assets/1dc3be21-231d-4958-a97f-44c80cfb86ee" />
 <img width="1112" height="762" alt="Mealzy3" src="https://github.com/user-attachments/assets/7070ce6a-9f66-4e87-bf52-39c77cbdb5f1" />
